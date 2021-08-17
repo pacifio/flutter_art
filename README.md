@@ -20,4 +20,4 @@ _project(
 | Preview                                  | Path                                     |
 | ---------------------------------------- | ---------------------------------------- |
 | <img src="./media/constellations.gif" /> | `lib/constellations/constellations.dart` |
-| <img src="./media/forest.gif" /> | `lib/constellations/constellations.dart` |
+| <img src="./media/forest.gif" />         | `lib/forest/forest.dart`                 |
