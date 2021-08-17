@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_art/forest/forest.dart';
 
 import 'constellations/constellations.dart';
 
@@ -51,6 +52,12 @@ class Wrapper extends StatelessWidget {
             title: "Constellations",
             subtitle: "Constellations like effect",
             page: Constellations(),
+            context: context,
+          ),
+          _project(
+            title: "Forest",
+            subtitle: "Tree roots like animation",
+            page: Forest(),
             context: context,
           ),
         ],
